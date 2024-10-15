@@ -1,0 +1,3 @@
+C:/Users/sabin/FERI/Magisterij/1 Lertnik/1 Semester/Izbrani algoritmi/Prime numbers/cmake-build-debug/CMakeFiles/Prime_numbers.dir
+C:/Users/sabin/FERI/Magisterij/1 Lertnik/1 Semester/Izbrani algoritmi/Prime numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sabin/FERI/Magisterij/1 Lertnik/1 Semester/Izbrani algoritmi/Prime numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
